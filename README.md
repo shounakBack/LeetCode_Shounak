@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [2580-circular-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
