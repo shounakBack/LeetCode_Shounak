@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2580-circular-sentence) |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0812-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
