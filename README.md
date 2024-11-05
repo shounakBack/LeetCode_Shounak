@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1637-string-compression-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1637-string-compression-ii) |
 | [2580-circular-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2580-circular-sentence) |
+| [3451-string-compression-iii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
 | ------- |
