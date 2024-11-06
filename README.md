@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1637-string-compression-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1637-string-compression-ii) |
+## Array
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
