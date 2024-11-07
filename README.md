@@ -32,13 +32,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
