@@ -46,6 +46,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
