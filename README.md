@@ -40,6 +40,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -83,6 +84,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
