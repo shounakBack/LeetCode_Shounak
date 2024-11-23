@@ -36,6 +36,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -104,4 +105,12 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
