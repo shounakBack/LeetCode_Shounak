@@ -43,6 +43,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [1755-defuse-the-bomb](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -103,6 +104,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Greedy
 |  |
 | ------- |
+| [2089-maximum-matrix-sum](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -121,6 +123,7 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2089-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
