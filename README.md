@@ -53,6 +53,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
@@ -140,4 +141,12 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
