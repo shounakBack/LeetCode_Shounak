@@ -148,5 +148,14 @@ A set of problems in the journey to learn how to love problem solving.
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
