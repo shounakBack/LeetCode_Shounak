@@ -50,6 +50,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
@@ -127,6 +128,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -148,12 +151,14 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
@@ -167,4 +172,5 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
