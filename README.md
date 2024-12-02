@@ -14,6 +14,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [0443-string-compression](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1637-string-compression-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1637-string-compression-ii) |
 | [2580-circular-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -22,10 +23,12 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0443-string-compression) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2699-count-the-number-of-fair-pairs) |
