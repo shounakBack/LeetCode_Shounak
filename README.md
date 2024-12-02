@@ -28,6 +28,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0443-string-compression) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
@@ -42,6 +43,7 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1940-maximum-xor-for-each-query) |
@@ -71,6 +73,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -78,6 +81,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
@@ -101,6 +105,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
