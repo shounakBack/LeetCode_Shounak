@@ -47,6 +47,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2179-most-beautiful-item-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2716-prime-subtraction-operation) |
@@ -125,6 +126,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 | [1972-rotating-the-box](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -144,11 +147,13 @@ A set of problems in the journey to learn how to love problem solving.
 ## Breadth-First Search
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
@@ -158,4 +163,8 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
