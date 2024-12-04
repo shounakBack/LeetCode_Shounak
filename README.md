@@ -18,6 +18,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [1637-string-compression-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1637-string-compression-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -36,6 +37,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2232-adding-spaces-to-a-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
 | ------- |
