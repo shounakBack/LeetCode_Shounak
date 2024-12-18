@@ -53,6 +53,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1755-defuse-the-bomb) |
 | [1917-maximum-average-pass-ratio](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1917-maximum-average-pass-ratio) |
@@ -161,10 +162,12 @@ A set of problems in the journey to learn how to love problem solving.
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Matrix
 |  |
