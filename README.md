@@ -205,6 +205,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -218,6 +219,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -227,4 +229,12 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
