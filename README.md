@@ -220,6 +220,7 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
