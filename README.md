@@ -204,6 +204,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0310-minimum-height-trees) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -212,6 +213,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0310-minimum-height-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -219,6 +221,7 @@ A set of problems in the journey to learn how to love problem solving.
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0310-minimum-height-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -242,4 +245,8 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
