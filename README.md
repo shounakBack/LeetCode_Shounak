@@ -66,6 +66,7 @@ A set of problems in the journey to learn how to love problem solving.
 | [2232-adding-spaces-to-a-string](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -84,6 +85,7 @@ A set of problems in the journey to learn how to love problem solving.
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/shounakBack/LeetCode_Shounak/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/shounakBack/LeetCode_Shounak/tree/master/3394-minimum-array-end) |
@@ -249,4 +251,8 @@ A set of problems in the journey to learn how to love problem solving.
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shounakBack/LeetCode_Shounak/tree/master/0310-minimum-height-trees) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/shounakBack/LeetCode_Shounak/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
